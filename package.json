@@ -1,0 +1,25 @@
+{
+  "name": "mtksora",
+  "version": "1.0.0",
+  "description": "mtksora",
+  "main": "mtksora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephanieAgatha/mtksora.git"
+  },
+  "keywords": [
+    "mtksora"
+  ],
+  "author": "stephanieagatha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephanieAgatha/mtksora/issues"
+  },
+  "homepage": "https://github.com/StephanieAgatha/mtksora#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

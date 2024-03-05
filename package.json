@@ -1,6 +1,6 @@
 {
   "name": "mtksora",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "mtksora",
   "main": "mtksora.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StephanieAgatha/mtksora.git"
+    "url": "https://github.com/StephanieAgatha/mtksora"
   },
   "keywords": [
     "mtksora"
